@@ -1,6 +1,5 @@
 # [Яндекс Алгоритмы 1.0 (Golang) ](https://yandex.ru/yaintern/algorithm-training_1)
 
-## Занятия | Прогресс | Решения | Тема | Место
 Занятия | Прогресс | Решения | Тема | Место
 ---------- | --------- | ------ | ------ | ------
 [Занятие 1](https://contest.yandex.ru/contest/27393/problems/) | 10/10 | [Решения 1](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%201) | Сложность, тестирование, особые случаи | 320 / 10708

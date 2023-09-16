@@ -1,6 +1,5 @@
 # [Yandex Algorithms 1.0 (Golang) ](https://yandex.ru/yaintern/algorithm-training_1)
 
-## Sessions | Progress | Solutions | Topic | Place
 Sessions | Progress | Solutions | Topic | Place
 ---------- | --------- | ------ | ------ | ------
 [Session 1](https://contest.yandex.ru/contest/27393/problems/) | 10/10 | [Solutions 1](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%201) | Complexity, testing, special cases | 320 / 10708
