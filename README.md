@@ -1,16 +1,16 @@
-# [Yandex Algorithms 1.0 (Golang) ](https://yandex.ru/yaintern/algorithm-training_1)
+# [Яндекс Алгоритмы 1.0 (Golang) ](https://yandex.ru/yaintern/algorithm-training_1)
 
-## Sessions | Progress | Solutions | Topic | Result
-Sessions | Progress | Solutions | Topic | Result
+## Занятия | Прогресс | Решения | Тема | Место
+Занятия | Прогресс | Решения | Тема | Место
 ---------- | --------- | ------ | ------ | ------
-[Занятие 1](https://contest.yandex.ru/contest/27393/problems/) | 10/10 | [Решения 1](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%201) | Сложность, тестирование, особые случаи | ![Alt text](materials/Images/Session_1.jpg)
-[Занятие 2](https://contest.yandex.ru/contest/27472/problems/) | 10/10 | [Решения 2](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%202) | Линейный поиск | ![Alt text](materials/Images/Session_2.jpg)
-[Занятие 3](https://contest.yandex.ru/contest/27663/problems/) | 10/10 | [Решения 3](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%203) | Множества | ![Alt text](materials/Images/Session_3.jpg)
-[Занятие 4](https://contest.yandex.ru/contest/27665/problems/) | 10/10 | [Решения 4](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%204)  | Словари и сортировка подсчётом | ![Alt text](materials/Images/Session_4.jpg)
-[Занятие 5](https://contest.yandex.ru/contest/27794/problems/) | 10/10 | [Решения 5](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%205) | Префиксные суммы и два указателя | ![Alt text](materials/Images/Session_5.jpg)
-[Занятие 6](https://contest.yandex.ru/contest/27844/problems/) | 10(11)/11 | [Решения 6](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%206) | Бинарный поиск | ![Alt text](materials/Images/Session_6.jpg)
-[Занятие 7](https://contest.yandex.ru/contest/27883/problems/) | 6(7)/10 | [Решения 7](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%207) | Сортировка событий | ![Alt text](materials/Images/Session_7.jpg)
-[Занятие 8](https://contest.yandex.ru/contest/28069/problems/) | 10/10 | [Решения 8](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%208) | Деревья | ![Alt text](materials/Images/Session_8.jpg)
+[Занятие 1](https://contest.yandex.ru/contest/27393/problems/) | 10/10 | [Решения 1](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%201) | Сложность, тестирование, особые случаи | 320 / 10708
+[Занятие 2](https://contest.yandex.ru/contest/27472/problems/) | 10/10 | [Решения 2](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%202) | Линейный поиск | 478 / 3872
+[Занятие 3](https://contest.yandex.ru/contest/27663/problems/) | 10/10 | [Решения 3](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%203) | Множества | 275 / 2566
+[Занятие 4](https://contest.yandex.ru/contest/27665/problems/) | 10/10 | [Решения 4](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%204)  | Словари и сортировка подсчётом | 238 / 1950
+[Занятие 5](https://contest.yandex.ru/contest/27794/problems/) | 10/10 | [Решения 5](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%205) | Префиксные суммы и два указателя | 141 / 1630
+[Занятие 6](https://contest.yandex.ru/contest/27844/problems/) | 10(11)/11 | [Решения 6](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%206) | Бинарный поиск | 236 / 1212 
+[Занятие 7](https://contest.yandex.ru/contest/27883/problems/) | 6(7)/10 | [Решения 7](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%207) | Сортировка событий | 143 / 808
+[Занятие 8](https://contest.yandex.ru/contest/28069/problems/) | 10/10 | [Решения 8](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%208) | Деревья | 174 / 543
 
 _____
 

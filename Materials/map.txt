@@ -1,0 +1,14 @@
+typical repository structure
+
+|
+|- Materials - images of the results
+|- Session 1 - solutions session 1
+|- Session 2 - solutions session 2
+|- Session 3 - solutions session 3
+|- Session 4 - solutions session 4
+|- Session 5 - solutions session 5
+|- Session 6 - solutions session 6
+|- Session 7 - solutions session 7
+|- Session 8 - solutions session 8
+|-- README_ENG.MD - impressions and thoughts in English
+|-- README.md - impressions and thoughts

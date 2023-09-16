@@ -1,16 +1,16 @@
 # [Yandex Algorithms 1.0 (Golang) ](https://yandex.ru/yaintern/algorithm-training_1)
 
-## Sessions | Progress | Solutions | Topic | Result
-Sessions | Progress | Solutions | Topic | Result
+## Sessions | Progress | Solutions | Topic | Place
+Sessions | Progress | Solutions | Topic | Place
 ---------- | --------- | ------ | ------ | ------
-[Session 1](https://contest.yandex.ru/contest/27393/problems/) | 10/10 | [Solutions 1](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%201) | Complexity, testing, special cases | ![Alt text](materials/Images/Session_1.jpg)
-[Session 2](https://contest.yandex.ru/contest/27472/problems/) | 10/10 | [Solutions 2](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%202) | Linear search | ![Alt text](materials/Images/Session_2.jpg)
-[Session 3](https://contest.yandex.ru/contest/27663/problems/) | 10/10 | [Solutions 3](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%203) | Sets | ![Alt text](materials/Images/Session_3.jpg)
-[Session 4](https://contest.yandex.ru/contest/27665/problems/) | 10/10 | [Solutions 4](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%204)  | Dictionaries and sorting by counting | ![Alt text](materials/Images/Session_4.jpg)
-[Session 5](https://contest.yandex.ru/contest/27794/problems/) | 10/10 | [Solutions 5](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%205) | Prefix sums and two pointers | ![Alt text](materials/Images/Session_5.jpg)
-[Session 6](https://contest.yandex.ru/contest/27844/problems/) | 10(11)/11 | [Solutions 6](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%206) | Binary search | ![Alt text](materials/Images/Session_6.jpg)
-[Session 7](https://contest.yandex.ru/contest/27883/problems/) | 6(7)/10 | [Solutions 7](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%207) | Event Sorting | ![Alt text](materials/Images/Session_7.jpg)
-[Session 8](https://contest.yandex.ru/contest/28069/problems/) | 10/10 | [Solutions 8](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%208) | Trees | ![Alt text](materials/Images/Session_8.jpg)
+[Session 1](https://contest.yandex.ru/contest/27393/problems/) | 10/10 | [Solutions 1](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%201) | Complexity, testing, special cases | 320 / 10708
+[Session 2](https://contest.yandex.ru/contest/27472/problems/) | 10/10 | [Solutions 2](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%202) | Linear search | 478 / 3872
+[Session 3](https://contest.yandex.ru/contest/27663/problems/) | 10/10 | [Solutions 3](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%203) | Sets | 275 / 2566
+[Session 4](https://contest.yandex.ru/contest/27665/problems/) | 10/10 | [Solutions 4](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%204)  | Dictionaries and sorting by counting | 238 / 1950
+[Session 5](https://contest.yandex.ru/contest/27794/problems/) | 10/10 | [Solutions 5](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%205) | Prefix sums and two pointers | 141 / 1630
+[Session 6](https://contest.yandex.ru/contest/27844/problems/) | 10(11)/11 | [Solutions 6](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%206) | Binary search | 236 / 1212 
+[Session 7](https://contest.yandex.ru/contest/27883/problems/) | 6(7)/10 | [Solutions 7](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%207) | Event Sorting | 143 / 808
+[Session 8](https://contest.yandex.ru/contest/28069/problems/) | 10/10 | [Solutions 8](https://github.com/Xonesent/Yandex-Algorithms-1.0-Golang/tree/master/Session%208) | Trees | 174 / 543
 
 _____
 
